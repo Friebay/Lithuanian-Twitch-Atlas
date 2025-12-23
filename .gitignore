@@ -178,3 +178,7 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+# Twitch Atlas Specific
+streamers/ivr-fi-logs/
+configs/config_*.json
+
