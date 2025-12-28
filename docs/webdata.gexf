@@ -7,12 +7,12 @@
   </meta>
   <graph defaultedgetype="undirected" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="size" title="size" type="integer"/>
-      <attribute id="usercount" title="usercount" type="integer"/>
-      <attribute id="weighted degree" title="Weighted Degree" type="double">
+      <attribute id="size" title="Žinučių" type="integer"/>
+      <attribute id="usercount" title="Pokalbiautojų" type="integer"/>
+      <attribute id="weighted degree" title="Svertinis sujungimų kiekis" type="double">
         <default>0.0</default>
       </attribute>
-      <attribute id="modularity_class" title="Modularity Class" type="integer">
+      <attribute id="modularity_class" title="Grupė" type="integer">
         <default>0</default>
       </attribute>
     </attributes>

@@ -76,7 +76,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 2,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -410,7 +410,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -800,14 +800,14 @@
     "id": "422684703",
     "bio": "(:",
     "follows": null,
-    "followers": 532,
+    "followers": 533,
     "profileViewCount": null,
     "chatColor": "#DAA520",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8c081763-dbe5-4804-918e-9ee9d076cda1-profile_image-600x600.png",
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/8ec24a7d-aa89-4a2c-92d8-0ff94cd85b2c-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2019-03-10T18:37:57.3936Z",
-    "updatedAt": "2025-12-22T11:12:55.917462Z",
+    "updatedAt": "2025-12-23T11:12:55.176344Z",
     "emotePrefix": "artaa",
     "roles": {
       "isAffiliate": true,
@@ -815,7 +815,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 8,
+    "chatterCount": 2,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -828,18 +828,9 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": {
-      "title": "3k elo faceit kylam arba krentam day2",
-      "id": "314992710742",
-      "createdAt": "2025-12-23T08:49:59Z",
-      "type": "live",
-      "viewersCount": 6,
-      "game": {
-        "displayName": "Counter-Strike"
-      }
-    },
+    "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-23T08:50:05.291055Z",
+      "startedAt": "2025-12-23T13:00:51.497381Z",
       "title": "3k elo faceit kylam arba krentam day2"
     },
     "panels": [
@@ -997,14 +988,14 @@
     "id": "776788160",
     "bio": "CS2 Player. For business inquiries - feizenbusiness@gmail.com",
     "follows": null,
-    "followers": 1980,
+    "followers": 1982,
     "profileViewCount": null,
     "chatColor": "#FF7F50",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6918955b-b19c-404a-a023-387baadec3f6-profile_image-600x600.png",
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/91b026be-d8f7-470b-b858-a4c8598db213-profile_banner-480.jpeg",
     "verifiedBot": null,
     "createdAt": "2022-03-01T15:41:04.54975Z",
-    "updatedAt": "2025-12-22T23:58:50.315545Z",
+    "updatedAt": "2025-12-23T08:04:07.365875Z",
     "emotePrefix": "feizen",
     "roles": {
       "isAffiliate": true,
@@ -1019,7 +1010,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 18,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -1032,18 +1023,9 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": {
-      "title": "faceit vs @m3wsu",
-      "id": "314992501846",
-      "createdAt": "2025-12-23T07:55:48Z",
-      "type": "live",
-      "viewersCount": 23,
-      "game": {
-        "displayName": "Counter-Strike"
-      }
-    },
+    "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-23T07:55:54.470912Z",
+      "startedAt": "2025-12-23T10:42:19.105009Z",
       "title": "faceit vs @m3wsu"
     },
     "panels": [
@@ -1140,7 +1122,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/9fa85bfd-cfe8-46b9-a4ae-6eb54c549cef-profile_banner-480.jpeg",
     "verifiedBot": null,
     "createdAt": "2016-11-25T14:21:04.157629Z",
-    "updatedAt": "2025-12-22T15:03:12.213413Z",
+    "updatedAt": "2025-12-23T15:20:24.019179Z",
     "emotePrefix": "resoca1",
     "roles": {
       "isAffiliate": true,
@@ -1495,7 +1477,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 1,
+    "chatterCount": 2,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -1716,7 +1698,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 6,
+    "chatterCount": 7,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -2011,13 +1993,13 @@
     },
     "badges": [
       {
-        "setID": "twitchconAmsterdam2020",
-        "title": "TwitchCon 2020 - Amsterdam",
-        "description": "Registered for TwitchCon Amsterdam 2020",
+        "setID": "purple-noob",
+        "title": "Purple Noob",
+        "description": "Watch 1 hour of Roblox content on Twitch to earn this happy little badge. EZ W.",
         "version": "1"
       }
     ],
-    "chatterCount": 9,
+    "chatterCount": 12,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -2146,18 +2128,9 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": {
-      "title": "[LT/EN] 🔴 Treniruojam pistoletus ramiausiai 🔴",
-      "id": "314992872790",
-      "createdAt": "2025-12-23T09:27:46Z",
-      "type": "live",
-      "viewersCount": 1,
-      "game": {
-        "displayName": "Counter-Strike"
-      }
-    },
+    "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-23T09:27:51.371197Z",
+      "startedAt": "2025-12-23T10:27:31.652769Z",
       "title": "[LT/EN] 🔴 Treniruojam pistoletus ramiausiai 🔴"
     },
     "panels": [
@@ -2425,7 +2398,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 16,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -2443,9 +2416,18 @@
         "- Gerbkim vieni kitus"
       ]
     },
-    "stream": null,
+    "stream": {
+      "title": "Tankų dozė kurioje laukiamas ir tu (DROPS)",
+      "id": "314967027669",
+      "createdAt": "2025-12-23T15:30:05Z",
+      "type": "live",
+      "viewersCount": 10,
+      "game": {
+        "displayName": "World of Tanks"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T19:35:03.98685Z",
+      "startedAt": "2025-12-23T15:30:10.790198Z",
       "title": "Tankų dozė kurioje laukiamas ir tu (DROPS)"
     },
     "panels": [
@@ -2504,7 +2486,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 13,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -2517,10 +2499,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "Easiest 18k+ of my life. 20k today? #premier #25w2d",
+      "id": "314966125781",
+      "createdAt": "2025-12-23T13:07:35Z",
+      "type": "live",
+      "viewersCount": 9,
+      "game": {
+        "displayName": "Counter-Strike"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T20:30:46.127637Z",
-      "title": "Max max max, JAU 18K+? #premier #25w1d"
+      "startedAt": "2025-12-23T13:07:40.241784Z",
+      "title": "Easiest 18k+ of my life. 20k today? #premier #25w2d"
     },
     "panels": [
       {
@@ -2800,7 +2791,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/bd87fe48-bf7b-4e3e-9fd4-6fd3902e2d1c-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2019-01-05T08:45:04.096175Z",
-    "updatedAt": "2025-12-15T15:02:13.037632Z",
+    "updatedAt": "2025-12-23T13:16:40.971702Z",
     "emotePrefix": "cost7y",
     "roles": {
       "isAffiliate": true,
@@ -2971,7 +2962,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 30,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -2984,10 +2975,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "chillax  <3",
+      "id": "314966162645",
+      "createdAt": "2025-12-23T13:14:22Z",
+      "type": "live",
+      "viewersCount": 55,
+      "game": {
+        "displayName": "Poker"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T19:27:21.352327Z",
-      "title": "HOME GAME  <3"
+      "startedAt": "2025-12-23T13:14:32.434831Z",
+      "title": "chillax  <3"
     },
     "panels": [
       {
@@ -3027,7 +3027,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/forzetcs2-profile_banner-1c4d999fb4d9fd18-480.jpeg",
     "verifiedBot": null,
     "createdAt": "2015-11-16T11:38:31.756083Z",
-    "updatedAt": "2025-12-22T23:24:43.628614Z",
+    "updatedAt": "2025-12-23T13:22:31.155661Z",
     "emotePrefix": "forzet1",
     "roles": {
       "isAffiliate": true,
@@ -3173,7 +3173,7 @@
     "id": "111015648",
     "bio": "Broniaus Bimbyriaus official kanalas.",
     "follows": null,
-    "followers": 2335,
+    "followers": 2334,
     "profileViewCount": null,
     "chatColor": "#1E90FF",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/48c841db-4df3-4755-a33f-ba029cb65f56-profile_image-600x600.png",
@@ -3365,7 +3365,7 @@
     "id": "132854444",
     "bio": "",
     "follows": null,
-    "followers": 22442,
+    "followers": 22441,
     "profileViewCount": null,
     "chatColor": "#FF69B4",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d4bbddc-a530-4730-aed8-11056c873bc0-profile_image-600x600.png",
@@ -3387,7 +3387,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 2,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -3449,7 +3449,7 @@
     "id": "140155909",
     "bio": "Saulius AKA biggest Bic in Lithuania",
     "follows": null,
-    "followers": 15764,
+    "followers": 15765,
     "profileViewCount": null,
     "chatColor": "#B22222",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/4d9dd50a-fd52-4652-9b24-167447ade606-profile_image-600x600.png",
@@ -3471,7 +3471,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 128,
+    "chatterCount": 174,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -3489,7 +3489,7 @@
       "id": "315003927764",
       "createdAt": "2025-12-22T11:40:09Z",
       "type": "live",
-      "viewersCount": 131,
+      "viewersCount": 177,
       "game": {
         "displayName": "League of Legends"
       }
@@ -3526,7 +3526,7 @@
     "id": "143357902",
     "bio": "22yo challenger jungler from Lithuania. Currently playing LoL professionally for Team Vitality in the #LEC",
     "follows": null,
-    "followers": 12995,
+    "followers": 12994,
     "profileViewCount": null,
     "chatColor": null,
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/0d9d1372-db46-46c7-8e9f-ac6d3f48a858-profile_image-600x600.png",
@@ -3541,7 +3541,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 6,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 10,
@@ -3684,7 +3684,7 @@
     "id": "154703310",
     "bio": "Gabrielė.💕 average gamer girl from Lithuania 🇱🇹 ",
     "follows": null,
-    "followers": 6022,
+    "followers": 6021,
     "profileViewCount": null,
     "chatColor": "#C795EE",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/04538a4f-70d7-4c2c-9aff-01642358ded0-profile_image-600x600.png",
@@ -3756,14 +3756,14 @@
     "id": "162179813",
     "bio": "",
     "follows": null,
-    "followers": 4282,
+    "followers": 4281,
     "profileViewCount": null,
     "chatColor": "#FF0000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/69cb9798-7c01-47ba-8f6e-546324a65965-profile_image-600x600.png",
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/06ea795a-5bd0-44d3-9d47-b83df38a23dc-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2017-06-30T15:09:14.14164Z",
-    "updatedAt": "2025-12-23T09:35:20.383259Z",
+    "updatedAt": "2025-12-23T12:55:41.994509Z",
     "emotePrefix": "jaunut",
     "roles": {
       "isAffiliate": false,
@@ -3778,7 +3778,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -3834,7 +3834,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 6,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 2000,
       "followersOnlyDurationMinutes": 0,
@@ -3953,7 +3953,7 @@
     "id": "196344117",
     "bio": "Professional 22 year old Lithuanian CS player for Monte. Previously played for FaZe Clan and MOUZ.",
     "follows": null,
-    "followers": 61157,
+    "followers": 61159,
     "profileViewCount": null,
     "chatColor": "#FF69B4",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b840756c-e143-4b86-b383-2de10e4891f3-profile_image-600x600.png",
@@ -3975,7 +3975,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 6,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4187,14 +4187,14 @@
     "id": "24532208",
     "bio": "Hello, my name is Darius. I'm from Lithuania. 29 years old.",
     "follows": null,
-    "followers": 38586,
+    "followers": 38584,
     "profileViewCount": null,
     "chatColor": "#FF0000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/708fd056-61e6-4e8a-b746-c63c2b31fb25-profile_image-600x600.png",
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/d3b8035b-935c-4224-b275-82109d0bd1bc-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2011-09-02T18:33:41.643879Z",
-    "updatedAt": "2025-12-22T19:44:54.345214Z",
+    "updatedAt": "2025-12-23T16:45:20.839538Z",
     "emotePrefix": "cxz",
     "roles": {
       "isAffiliate": false,
@@ -4209,7 +4209,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 15,
     "chatSettings": {
       "chatDelayMs": 2000,
       "followersOnlyDurationMinutes": null,
@@ -4222,10 +4222,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "Paskutinė subatono diena? Roblox su žiūrovais (26 diena) :: !komandos !ratas",
+      "id": "316832973275",
+      "createdAt": "2025-12-23T16:33:50Z",
+      "type": "live",
+      "viewersCount": 11,
+      "game": {
+        "displayName": "ROBLOX"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T22:45:37.100936Z",
-      "title": "[DROPS] Šiandien pabaiga? Realistiškas zombių išlikimas PVP serveryje (25 diena) :: !komandos !ratas"
+      "startedAt": "2025-12-23T16:33:55.060601Z",
+      "title": "Paskutinė subatono diena? Roblox su žiūrovais (26 diena) :: !komandos !ratas"
     },
     "panels": [
       {
@@ -4261,7 +4270,7 @@
     "id": "24763549",
     "bio": "Competitive gamer for my whole life. Played various games over the years, most notably League of Legends. Currently occupy my days talking politics and world news. I also do the podcast thing and sometimes cast tournaments!",
     "follows": null,
-    "followers": 18715,
+    "followers": 18714,
     "profileViewCount": null,
     "chatColor": "#0000CC",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6d72bf89-ae87-4996-be21-28ef7f9d20ac-profile_image-600x600.png",
@@ -4283,7 +4292,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 35,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4296,10 +4305,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "Žemaitaitis vs Anonimas. Tauragė: Skvernelis vs Sinkevičius. LRT Forumas | karalius.gg/discord",
+      "id": "315012843092",
+      "createdAt": "2025-12-23T15:59:04Z",
+      "type": "live",
+      "viewersCount": 32,
+      "game": {
+        "displayName": "Just Chatting"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T19:07:23.860544Z",
-      "title": "Liūdnos Kalėdos Žemaitaičiui. Celofanas/Bartkevičius/Lekstutis. | karalius.gg/discord"
+      "startedAt": "2025-12-23T15:59:09.847623Z",
+      "title": "Žemaitaitis vs Anonimas. Tauragė: Skvernelis vs Sinkevičius. LRT Forumas | karalius.gg/discord"
     },
     "panels": [
       {
@@ -4347,7 +4365,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 7,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4425,7 +4443,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 10,
+    "chatterCount": 64,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -4438,9 +4456,18 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "TFT Avg 4.5 stream 🔴 TFT 16 setas 🔴🏎️ !f1top10",
+      "id": "314993456470",
+      "createdAt": "2025-12-23T11:22:58Z",
+      "type": "live",
+      "viewersCount": 58,
+      "game": {
+        "displayName": "Teamfight Tactics"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T21:11:23.208895Z",
+      "startedAt": "2025-12-23T11:23:07.719765Z",
       "title": "TFT Avg 4.5 stream 🔴 TFT 16 setas 🔴🏎️ !f1top10"
     },
     "panels": [
@@ -4490,7 +4517,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 2000,
       "followersOnlyDurationMinutes": null,
@@ -4547,7 +4574,7 @@
     "id": "36537760",
     "bio": "COMPLETE ABSOLUT DEBYL",
     "follows": null,
-    "followers": 25113,
+    "followers": 25112,
     "profileViewCount": null,
     "chatColor": "#008000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8f08ecf7-e14a-457b-8c22-6aab94fea58f-profile_image-600x600.png",
@@ -4562,7 +4589,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 9,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -4633,7 +4660,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 3,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4681,7 +4708,7 @@
     "id": "37558817",
     "bio": "NU TAI SVEIKY",
     "follows": null,
-    "followers": 138801,
+    "followers": 138800,
     "profileViewCount": null,
     "chatColor": "#2E8B57",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/bdbfe338-ef28-4cb2-b15d-8608b69732bc-profile_image-600x600.png",
@@ -4703,7 +4730,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 12,
+    "chatterCount": 19,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 10,
@@ -4782,7 +4809,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 2,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4859,7 +4886,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -4909,7 +4936,7 @@
     "id": "43244047",
     "bio": "Lithuania R6S Player - This game holds a special place in my heart ❤️",
     "follows": null,
-    "followers": 3625,
+    "followers": 3627,
     "profileViewCount": null,
     "chatColor": null,
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/615024ff-2728-4e4d-ab55-30cb05e6fee6-profile_image-600x600.png",
@@ -4924,7 +4951,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 17,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 10,
@@ -4939,9 +4966,18 @@
         "Gerbkit Apuoka!"
       ]
     },
-    "stream": null,
+    "stream": {
+      "title": "🔴[EN/LT]✅Christmas is near✅🔴Next step Comic Con Baltics🔴#VMG Squad'as#UbisoftPartner",
+      "id": "315011773524",
+      "createdAt": "2025-12-23T13:20:27Z",
+      "type": "live",
+      "viewersCount": 10,
+      "game": {
+        "displayName": "Tom Clancy's Rainbow Six Siege X"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-23T03:33:53.258001Z",
+      "startedAt": "2025-12-23T13:20:32.520457Z",
       "title": "🔴[EN/LT]✅Christmas is near✅🔴Next step Comic Con Baltics🔴#VMG Squad'as#UbisoftPartner"
     },
     "panels": [
@@ -5276,8 +5312,8 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-14T17:58:23.803659Z",
-      "title": "december valo gamess 💕♡ NEW FOLLOW GOAL ♡ !nya !meow !rank !lurk !D20"
+      "startedAt": "2025-12-23T13:07:44.049247Z",
+      "title": "Christmasy spirit in the air 💕♡ NEW FOLLOW GOAL CLOSE ♡ !nya !meow !rank !lurk !D20"
     },
     "panels": [
       {
@@ -5380,7 +5416,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 8,
+    "chatterCount": 7,
     "chatSettings": {
       "chatDelayMs": 4000,
       "followersOnlyDurationMinutes": 0,
@@ -5426,7 +5462,7 @@
     "id": "49608949",
     "bio": "Your main entertainment source ",
     "follows": null,
-    "followers": 14408,
+    "followers": 14407,
     "profileViewCount": null,
     "chatColor": "#F4FF00",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/7fba6102-5a66-46f9-9326-5f22a4af041a-profile_image-600x600.png",
@@ -5448,7 +5484,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 3,
+    "chatterCount": 4,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -5599,7 +5635,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 9,
+    "chatterCount": 10,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -5800,7 +5836,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -5855,7 +5891,7 @@
     "id": "64667862",
     "bio": "Hello, my name is Mantas and if you are bored, come, watch this boredom ;)",
     "follows": null,
-    "followers": 2245,
+    "followers": 2244,
     "profileViewCount": null,
     "chatColor": "#00FF7F",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/08be98f7-d4e8-46f5-8bb1-40bad41b3e05-profile_image-600x600.png",
@@ -5870,7 +5906,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 10,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -5922,7 +5958,7 @@
     "id": "656435746",
     "bio": "natural professional noob since 1998 , spawned in Lithuania , currently recalibrating",
     "follows": null,
-    "followers": 10375,
+    "followers": 10374,
     "profileViewCount": null,
     "chatColor": "#00FF7F",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b1ab818e-5a5a-4a43-8f2a-bd1e19d39bfc-profile_image-600x600.png",
@@ -5937,7 +5973,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 6,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -5980,7 +6016,7 @@
     "id": "666287060",
     "bio": "Jei jau skaitai tai, tai pasilik. Kažką geriau turi ką veikti? ;)",
     "follows": null,
-    "followers": 5543,
+    "followers": 5544,
     "profileViewCount": null,
     "chatColor": "#FF69B4",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/92e1532d-1b1b-4b13-8b6c-7deec0504ad6-profile_image-600x600.png",
@@ -6002,7 +6038,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -6076,7 +6112,7 @@
     "id": "68330417",
     "bio": "Karoče streameris siekiantis karjeros twitche FULL TIME",
     "follows": null,
-    "followers": 800,
+    "followers": 801,
     "profileViewCount": null,
     "chatColor": "#8A2BE2",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/7192cf1e-7d68-4ac4-840e-8d7f9560237e-profile_image-600x600.png",
@@ -6113,8 +6149,8 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-22T09:44:49.473223Z",
-      "title": "Waddup | !discord | !merch"
+      "startedAt": "2025-12-23T14:40:39.182689Z",
+      "title": "Reikia atsigriebt už porą dienų | !discord | !merch"
     },
     "panels": [
       {
@@ -6169,7 +6205,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 2,
+    "chatterCount": 1,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -6367,7 +6403,7 @@
     "id": "70995331",
     "bio": "❌Father, Gamer, Personal Trainer in one❌                       ❗Lithuanian PUBG Player and Men's physique champion 2018/2019/2020❗Europe Men's physique Vicechampion 2020❗                #PUBGPartner",
     "follows": null,
-    "followers": 30527,
+    "followers": 30525,
     "profileViewCount": null,
     "chatColor": "#008000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/75b282c5-01fb-4e57-90e4-1d4d46141ee2-profile_image-600x600.png",
@@ -6389,7 +6425,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 6,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 10,
@@ -6579,7 +6615,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/5b5588db-6db8-4111-b356-5df90374ac5a-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2014-12-28T21:27:13.925588Z",
-    "updatedAt": "2025-12-22T12:11:44.590528Z",
+    "updatedAt": "2025-12-23T12:52:57.533007Z",
     "emotePrefix": "w1ston",
     "roles": {
       "isAffiliate": true,
@@ -6594,7 +6630,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 2,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -6607,10 +6643,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "[LT/RU] chillinam (zaidziam scenarius)",
+      "id": "315783818726",
+      "createdAt": "2025-12-23T12:53:07Z",
+      "type": "live",
+      "viewersCount": 2,
+      "game": {
+        "displayName": "Heroes of Might and Magic III: The Restoration of Erathia"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T19:40:50.821766Z",
-      "title": "[LT/RU] keliam ginklus veliau gal br"
+      "startedAt": "2025-12-23T12:53:12.24651Z",
+      "title": "[LT/RU] chillinam (zaidziam scenarius)"
     },
     "panels": [
       {
@@ -6640,7 +6685,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -6702,7 +6747,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 3,
+    "chatterCount": 4,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -6766,7 +6811,7 @@
     "id": "80728321",
     "bio": "Yapperis, soon to be Godgameris 🙏 👑 ",
     "follows": null,
-    "followers": 3153,
+    "followers": 3152,
     "profileViewCount": null,
     "chatColor": "#FF0000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/33326971-8b51-4849-ba6e-f58669c07458-profile_image-600x600.png",
@@ -7043,14 +7088,14 @@
     "id": "82941851",
     "bio": "Competitive Tarkov player!! Check Achievements at the bottom.   19x🥇    7x🥈   2x🥉",
     "follows": null,
-    "followers": 3791,
+    "followers": 3793,
     "profileViewCount": null,
     "chatColor": null,
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/9cf670a9-52bc-4b53-bf73-fdcce9757cc6-profile_image-600x600.png",
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/2c2b7a22-a573-4c0a-a813-f53746b163de-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2015-02-17T12:07:15.403575Z",
-    "updatedAt": "2025-12-22T14:44:11.487647Z",
+    "updatedAt": "2025-12-23T11:05:16.222737Z",
     "emotePrefix": "nemona4",
     "roles": {
       "isAffiliate": true,
@@ -7065,7 +7110,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 25,
     "chatSettings": {
       "chatDelayMs": 2000,
       "followersOnlyDurationMinutes": null,
@@ -7078,10 +7123,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "🔴[DROPS] Bobr main game grind🦫🪖🦫",
+      "id": "314965631445",
+      "createdAt": "2025-12-23T11:31:04Z",
+      "type": "live",
+      "viewersCount": 19,
+      "game": {
+        "displayName": "Escape from Tarkov"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T20:18:26.373789Z",
-      "title": "🔴[DROPS] Bobr main game grind🦫 BTR quests 🪖🦫"
+      "startedAt": "2025-12-23T11:31:09.291248Z",
+      "title": "🔴[DROPS] Bobr main game grind🦫🪖🦫"
     },
     "panels": [
       {
@@ -7120,7 +7174,7 @@
     "id": "83245851",
     "bio": "Ne gejus",
     "follows": null,
-    "followers": 2173,
+    "followers": 2172,
     "profileViewCount": null,
     "chatColor": "#2287B3",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/db9be810-29ed-440f-8d19-bda764c54f9c-profile_image-600x600.png",
@@ -7142,7 +7196,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 6,
+    "chatterCount": 11,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -7157,9 +7211,18 @@
         ""
       ]
     },
-    "stream": null,
+    "stream": {
+      "title": "Mano komandoj puse epstein listo",
+      "id": "315013000916",
+      "createdAt": "2025-12-23T16:18:06Z",
+      "type": "live",
+      "viewersCount": 14,
+      "game": {
+        "displayName": "League of Legends"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-23T01:33:24.541874Z",
+      "startedAt": "2025-12-23T16:18:12.187084Z",
       "title": "Mano komandoj puse epstein listo"
     },
     "panels": [
@@ -7178,7 +7241,7 @@
     "id": "86135323",
     "bio": null,
     "follows": null,
-    "followers": 1391,
+    "followers": 1390,
     "profileViewCount": null,
     "chatColor": "#8A2BE2",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/fd7bbcb0-19f7-4cba-a8ea-8f397dc687e3-profile_image-600x600.png",
@@ -7252,7 +7315,7 @@
     "id": "88790819",
     "bio": ":-)",
     "follows": null,
-    "followers": 12765,
+    "followers": 12764,
     "profileViewCount": null,
     "chatColor": "#8A2BE2",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/b8ef6280-9eb3-4770-a841-6a7453e4cbb1-profile_image-600x600.png",
@@ -7267,7 +7330,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 2,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -7363,7 +7426,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/forzetcs2-profile_banner-1c4d999fb4d9fd18-480.jpeg",
     "verifiedBot": null,
     "createdAt": "2015-11-16T11:38:31.756083Z",
-    "updatedAt": "2025-12-22T23:24:43.628614Z",
+    "updatedAt": "2025-12-23T13:22:31.155661Z",
     "emotePrefix": "forzet1",
     "roles": {
       "isAffiliate": true,
@@ -7704,7 +7767,7 @@
     "id": "90882459",
     "bio": "Hello.",
     "follows": null,
-    "followers": 33347,
+    "followers": 33346,
     "profileViewCount": null,
     "chatColor": "#8A2BE2",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/632440f9-a2b7-4820-a54f-1dc342cc0969-profile_image-600x600.jpg",
@@ -7719,7 +7782,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -8097,7 +8160,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 6,
+    "chatterCount": 3,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -8112,18 +8175,9 @@
         "BEHAVE !!!"
       ]
     },
-    "stream": {
-      "title": "|DROPS|ENGLISH| Stop right there!  !luck #Ad !pinatafiesta",
-      "id": "315010016212",
-      "createdAt": "2025-12-23T07:15:57Z",
-      "type": "live",
-      "viewersCount": 6,
-      "game": {
-        "displayName": "Albion Online"
-      }
-    },
+    "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-23T07:16:03.734812Z",
+      "startedAt": "2025-12-23T15:12:28.264553Z",
       "title": "|DROPS|ENGLISH| Stop right there!  !luck #Ad !pinatafiesta"
     },
     "panels": [
@@ -8204,7 +8258,7 @@
     "id": "1319503249",
     "bio": "What genre do you play? Yes.",
     "follows": null,
-    "followers": 270,
+    "followers": 273,
     "profileViewCount": null,
     "chatColor": "#9ACD32",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/6b3b8eee-2720-41fb-bad0-be7dfe35a53a-profile_image-600x600.png",
@@ -8226,7 +8280,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 7,
+    "chatterCount": 4,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -8244,18 +8298,9 @@
         "- Just be a decent human being."
       ]
     },
-    "stream": {
-      "title": "🟣 VINYL VIBES 🟣 NEW VINYL UNBOXING",
-      "id": "314964645589",
-      "createdAt": "2025-12-23T07:59:02Z",
-      "type": "live",
-      "viewersCount": 3,
-      "game": {
-        "displayName": "DJs"
-      }
-    },
+    "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-23T07:59:08.248885Z",
+      "startedAt": "2025-12-23T16:30:26.760562Z",
       "title": "🟣 VINYL VIBES 🟣 NEW VINYL UNBOXING"
     },
     "panels": [
@@ -8520,7 +8565,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 3,
+    "chatterCount": 4,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -8568,7 +8613,7 @@
     "id": "1321270540",
     "bio": "To The Moon.. ",
     "follows": null,
-    "followers": 5883,
+    "followers": 5885,
     "profileViewCount": null,
     "chatColor": null,
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/8a559622-be18-49a6-b893-986a449cb307-profile_image-600x600.png",
@@ -8583,7 +8628,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 17,
+    "chatterCount": 24,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 10,
@@ -8853,7 +8898,7 @@
     "banner": null,
     "verifiedBot": null,
     "createdAt": "2014-07-01T16:16:33.688468Z",
-    "updatedAt": "2025-12-22T18:41:46.838867Z",
+    "updatedAt": "2025-12-23T16:22:21.211246Z",
     "emotePrefix": "inetar",
     "roles": {
       "isAffiliate": true,
@@ -8868,7 +8913,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 20,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -8881,10 +8926,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "Paskutinės minutės dovanų pirkimas",
+      "id": "314967513813",
+      "createdAt": "2025-12-23T16:33:26Z",
+      "type": "live",
+      "viewersCount": 18,
+      "game": {
+        "displayName": "IRL"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T22:19:36.948109Z",
-      "title": "!ratas MEDUOLINIŲ NAMELIŲ STATYBAS SU @dzordanabulkute_"
+      "startedAt": "2025-12-23T16:33:32.22614Z",
+      "title": "Paskutinės minutės dovanų pirkimas"
     },
     "panels": [
       {
@@ -8908,7 +8962,7 @@
     "id": "197472401",
     "bio": "Žmonija nusprendė - YouTube yra Namai! ❤️",
     "follows": null,
-    "followers": 4538,
+    "followers": 4543,
     "profileViewCount": null,
     "chatColor": "#DAA520",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/66888c45-8e33-4c52-b7fc-5d26b5d5cf72-profile_image-600x600.png",
@@ -8930,7 +8984,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 5,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -9003,7 +9057,7 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-20T18:14:23.511192Z",
+      "startedAt": "2025-12-23T16:36:38.130805Z",
       "title": "Racingtonas #51 | Back to Track - IMSA at Sebring | !GNG"
     },
     "panels": [
@@ -9214,7 +9268,7 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-22T20:40:08.756493Z",
+      "startedAt": "2025-12-23T14:50:42.373583Z",
       "title": "ONLY FILL CHALLANGE Kappa LuL"
     },
     "panels": [
@@ -9364,7 +9418,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 8,
+    "chatterCount": 11,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -9637,7 +9691,7 @@
     "id": "740202472",
     "bio": "Lithuanian girl :)",
     "follows": null,
-    "followers": 849,
+    "followers": 850,
     "profileViewCount": null,
     "chatColor": "#FF69B4",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/724dfe93-8a4c-45c3-8473-b477f7558be8-profile_image-600x600.png",
@@ -9652,7 +9706,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 4,
+    "chatterCount": 6,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -9705,7 +9759,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/f1251c97-4afb-4b0c-9fa0-a5df2d69f528-profile_banner-480.png",
     "verifiedBot": null,
     "createdAt": "2020-02-09T18:48:05.407013Z",
-    "updatedAt": "2025-12-22T18:14:35.628362Z",
+    "updatedAt": "2025-12-23T11:39:56.260916Z",
     "emotePrefix": "kairel1",
     "roles": {
       "isAffiliate": true,
@@ -9720,7 +9774,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 6,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -9737,10 +9791,19 @@
         "- Jokių patyčių iš kitų, iš streamerio galima!"
       ]
     },
-    "stream": null,
+    "stream": {
+      "title": "Gal šiandien be ašarų jau?",
+      "id": "315011223124",
+      "createdAt": "2025-12-23T11:40:41Z",
+      "type": "live",
+      "viewersCount": 1,
+      "game": {
+        "displayName": "Just Chatting"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T21:07:41.73533Z",
-      "title": "Ekspediciją tęsiame toliau!"
+      "startedAt": "2025-12-23T11:40:47.216955Z",
+      "title": "Gal šiandien be ašarų jau?"
     },
     "panels": [
       {
@@ -9837,7 +9900,7 @@
     "id": "239010276",
     "bio": "Lithuanian Counter-Strike player | BUSINESS INQUIRIES: unsain7ed@gmail.com",
     "follows": null,
-    "followers": 503,
+    "followers": 505,
     "profileViewCount": null,
     "chatColor": "#9ACD32",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/e9f014db-553d-4239-a139-a2cdc1d3efa3-profile_image-600x600.png",
@@ -9859,7 +9922,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 5,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -9874,8 +9937,8 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-22T15:36:36.941177Z",
-      "title": "🧊 Winter Arc w @xadecs  | top 1k europe  | ❄️  Day 19 | ⏱️ 25s Delay | !discord"
+      "startedAt": "2025-12-23T14:19:04.366109Z",
+      "title": "🧊 Winter Arc w @xadecs   | ❄️  Day 23 | ⏱️ 25s Delay | !discord"
     },
     "panels": [
       {
@@ -10196,7 +10259,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 5,
+    "chatterCount": 8,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -10213,9 +10276,18 @@
         "- Palaikome draugiška atmosfera"
       ]
     },
-    "stream": null,
+    "stream": {
+      "title": "Laba diena, is anksto visus su Sventemis  ;)",
+      "id": "314966445141",
+      "createdAt": "2025-12-23T14:04:18Z",
+      "type": "live",
+      "viewersCount": 4,
+      "game": {
+        "displayName": "PUBG: BATTLEGROUNDS"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-23T02:23:57.380627Z",
+      "startedAt": "2025-12-23T14:04:24.472192Z",
       "title": "Laba diena, is anksto visus su Sventemis  ;)"
     },
     "panels": [
@@ -10237,7 +10309,7 @@
     "id": "51011083",
     "bio": "Just a troll playing various games, at the moment mostly Hunt: Showdown.",
     "follows": null,
-    "followers": 136,
+    "followers": 137,
     "profileViewCount": null,
     "chatColor": "#1E90FF",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/678b6060-3345-4922-b47b-f2c94462894f-profile_image-600x600.jpeg",
@@ -10259,7 +10331,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 4,
+    "chatterCount": 7,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -10272,10 +10344,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "LTU|RU|ENG Drugelius gaudau/auginu gėlytes #beždžionių emot'ai",
+      "id": "314994678998",
+      "createdAt": "2025-12-23T14:57:27Z",
+      "type": "live",
+      "viewersCount": 2,
+      "game": {
+        "displayName": "Hunt: Showdown 1896"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T16:23:30.290768Z",
-      "title": "LTU|RU|ENG Drugelius gaudau"
+      "startedAt": "2025-12-23T14:57:32.972295Z",
+      "title": "LTU|RU|ENG Drugelius gaudau/auginu gėlytes #beždžionių emot'ai"
     },
     "panels": [
       {
@@ -10318,7 +10399,7 @@
     "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/baf3048e-4cc9-4d97-8c3c-14cc21c71b22-profile_banner-480.jpeg",
     "verifiedBot": null,
     "createdAt": "2012-12-20T00:02:30.653301Z",
-    "updatedAt": "2025-12-22T21:03:23.942747Z",
+    "updatedAt": "2025-12-23T14:14:38.322446Z",
     "emotePrefix": "",
     "roles": {
       "isAffiliate": false,
@@ -10439,7 +10520,7 @@
       "isStaff": null
     },
     "badges": [],
-    "chatterCount": 1,
+    "chatterCount": 2,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": 0,
@@ -10872,7 +10953,7 @@
     "id": "124693691",
     "bio": "Malonu, kad užsukai! Susipažinkim - aš Paulius (ŠamAn). Nepamiršk pasisveikinti bei spustelt \"follow\" ateities streamams matyti!",
     "follows": null,
-    "followers": 237,
+    "followers": 239,
     "profileViewCount": null,
     "chatColor": "#008000",
     "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/ef60fd2d-dcb2-4c5f-bde8-e53e565d9f17-profile_image-600x600.png",
@@ -10894,7 +10975,7 @@
         "version": "1"
       }
     ],
-    "chatterCount": 3,
+    "chatterCount": 11,
     "chatSettings": {
       "chatDelayMs": 0,
       "followersOnlyDurationMinutes": null,
@@ -10907,10 +10988,19 @@
       "requireVerifiedAccount": false,
       "rules": []
     },
-    "stream": null,
+    "stream": {
+      "title": "🔴LIVE🔴 MOHAMMED POLICE? ONEX ROLEPLAY / GTA RP",
+      "id": "314967471701",
+      "createdAt": "2025-12-23T16:27:58Z",
+      "type": "live",
+      "viewersCount": 17,
+      "game": {
+        "displayName": "Grand Theft Auto V"
+      }
+    },
     "lastBroadcast": {
-      "startedAt": "2025-12-22T21:13:08.354815Z",
-      "title": "🔴LIVE🔴 MOHAMMED ONEX ROLEPLAY / GTA RP"
+      "startedAt": "2025-12-23T16:28:04.069105Z",
+      "title": "🔴LIVE🔴 MOHAMMED POLICE? ONEX ROLEPLAY / GTA RP"
     },
     "panels": [
       {
@@ -11030,7 +11120,7 @@
     },
     "stream": null,
     "lastBroadcast": {
-      "startedAt": "2025-12-22T09:10:32.505927Z",
+      "startedAt": "2025-12-23T13:51:00.486997Z",
       "title": "LT Bandom isgivent"
     },
     "panels": [
@@ -11116,6 +11206,72 @@
       },
       {
         "id": "148647845"
+      }
+    ]
+  },
+  {
+    "banned": false,
+    "displayName": "raliux",
+    "login": "raliux",
+    "id": "483747053",
+    "bio": "Pirmą kartą twitcho istorijoj Live iš ūkio.",
+    "follows": null,
+    "followers": 61,
+    "profileViewCount": null,
+    "chatColor": "#FF69B4",
+    "logo": "https://static-cdn.jtvnw.net/jtv_user_pictures/98402617-e40b-40fd-8596-50c610070575-profile_image-600x600.png",
+    "banner": "https://static-cdn.jtvnw.net/jtv_user_pictures/104c8ae1-8d42-44a3-9352-82bfd58fc5d6-profile_banner-480.png",
+    "verifiedBot": null,
+    "createdAt": "2020-01-05T18:25:20.361946Z",
+    "updatedAt": "2025-12-23T15:11:47.059744Z",
+    "emotePrefix": "",
+    "roles": {
+      "isAffiliate": false,
+      "isPartner": false,
+      "isStaff": null
+    },
+    "badges": [
+      {
+        "setID": "twitch-recap-2023",
+        "title": "Twitch Recap 2023",
+        "description": "This user bled purple like it was their job, and was one of the most engaged members of Twitch in 2023!",
+        "version": "1"
+      }
+    ],
+    "chatterCount": 2,
+    "chatSettings": {
+      "chatDelayMs": 0,
+      "followersOnlyDurationMinutes": 0,
+      "slowModeDurationSeconds": null,
+      "blockLinks": false,
+      "isSubscribersOnlyModeEnabled": false,
+      "isEmoteOnlyModeEnabled": false,
+      "isFastSubsModeEnabled": false,
+      "isUniqueChatModeEnabled": false,
+      "requireVerifiedAccount": false,
+      "rules": [
+        "-Įsipilk.",
+        "-Išgerk.",
+        "-Žiūrėk!"
+      ]
+    },
+    "stream": null,
+    "lastBroadcast": {
+      "startedAt": "2025-12-23T14:16:59.172439Z",
+      "title": "Ferma Tiesiogiai"
+    },
+    "panels": [
+      {
+        "id": "112036097"
+      },
+      {
+        "id": "112033445"
+      },
+      {
+        "id": "112033618"
+      },
+      {
+        "id": "112033639"
       }
     ]
   }
