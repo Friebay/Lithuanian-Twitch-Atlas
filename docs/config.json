@@ -18,7 +18,7 @@
     "nodeLabel": "Kanalas"
   },
   "features": {
-    "search": false,
+    "search": true,
     "groupSelectorAttribute": false,
     "hoverBehavior": "default"
   },
