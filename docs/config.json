@@ -34,20 +34,20 @@
       "activeFontStyle": "bold",
       "defaultLabelColor": "#FFFFFF",
       "labelAlignemnt": "center",
-      "labelThreshold": 7.3,
+      "labelThreshold": 20,
       "defaultLabelHoverColor": "#fff",
       "hoverFontStyle": "bold",
       "labelSize": "proportional",
-      "defaultLabelSize": 7,
+      "defaultLabelSize": 2,
       "autoRescale": [
         "nodePosition, nodeSize"
       ]
     },
     "graphProperties": {
-      "maxEdgeSize": 0.8,
+      "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 5,
-      "maxNodeSize": 20
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,
