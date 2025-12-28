@@ -455,15 +455,6 @@ function nodeActive(a) {
     sigInst._core.graph.nodes[selectedIndex].forceLabel = true;
     sigInst._core.graph.nodes[selectedIndex].active = true;
 
-    //failed attempt at zooming in on searched nodes
-    /*
-    console.log(b.label)
-    console.log(b.displayX, b.displayY)
-
-    sigInst.position(0,0,1).draw();
-    sigInst.goTo(b.displayX, b.displayY, 2);
-    */
-
     showGroups(!1);
 	var outgoing={},incoming={},mutual={};//SAH
     sigInst.iterEdges(function (b) {
@@ -527,40 +518,13 @@ function nodeActive(a) {
     d = "";
 		for (g in e) {
 			c = e[g];
-			/*if (c.group != d) {
-				d = c.group;
-				f.push('<li class="cf" rel="' + c.color + '"><div class=""></div><div class="">' + d + "</div></li>");
-			}*/
-            //c has id name group color
 
-            /*
-            sigInst.iterNodes(function (a) {
-                if(a.id == c.id){
-                    console.log('changing node' + a.label)
-                    //console.log(a.attr.label)
-
-                }
-        
-            });*/
-
-            
 			f.push('<li class="membership"><a href="#' + c.name + '" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])\" onclick=\"nodeActive(\'' + c.id + '\')" onmouseout="sigInst.refresh()">' + c.name + "</a></li>");
 		}
 		return f;
 	}
-	
-	/*console.log("mutual:");
-	console.log(mutual);
-	console.log("incoming:");
-	console.log(incoming);
-	console.log("outgoing:");
-	console.log(outgoing);*/
-	
-	
+
 	var f=[];
-	
-	//console.log("neighbors:");
-	//console.log(sigInst.neighbors);
 
 	if (groupByDirection) {
 		size=Object.size(mutual);
@@ -657,5 +621,3 @@ function showCluster(a) {
     }
     return !1
 }
-
-
