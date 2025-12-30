@@ -51,9 +51,3 @@ Run the scripts in the following order:
 - `streamers/`: Python scripts for data fetching.
 - `configs/`: configuration files for [rustlog](https://github.com/boring-nick/rustlog).
 - `streamers/ivr-fi-logs/`: JSON logs of streamer data.
-
-## TODO
-
-- Create the Twitch Atlas itself.
-- Add option to skip fetching user IDs with Twitch API and fetch with ivr.fi API.
-

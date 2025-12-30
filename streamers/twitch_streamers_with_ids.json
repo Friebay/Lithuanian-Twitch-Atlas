@@ -803,5 +803,20 @@
     "username": "adminux",
     "twitch_id": "",
     "found": false
+  },
+  {
+    "username": "kooli",
+    "twitch_id": "180807071",
+    "found": true
+  },
+  {
+    "username": "og_lrrry",
+    "twitch_id": "235615767",
+    "found": true
+  },
+  {
+    "username": "piaupiau420",
+    "twitch_id": "128848086",
+    "found": true
   }
 ]

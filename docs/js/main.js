@@ -368,7 +368,7 @@ function Search(a) {
         this.searching = !0;
         this.lastSearch = a;
         this.results.empty();
-        if (2 >= a.length) this.results.html("<i>You must search for a name with a minimum of 3 letters.</i>");
+        if (2 >= a.length) this.results.html("<i>Turite ieškoti slapyvardžio, sudaryto iš ne mažiau kaip 3 raidžių.</i>");
         else {
             sigInst.iterNodes(function (a) {
                 g.test(a.label.toLowerCase()) && c.push({
@@ -377,9 +377,9 @@ function Search(a) {
                 })
             });
             c.length ? (b = !0, nodeActive(c[0].id)) : b = showCluster(a);
-            a = ["<b>Search Results: </b>"];
+            a = ["<b>Rezultatai: </b>"];
             if (1 < c.length) for (var d = 0, h = c.length; d < h; d++) a.push('<a href="#' + c[d].name + '" onclick="nodeActive(\'' + c[d].id + "')\">" + c[d].name + "</a>");
-            0 == c.length && !b && a.push("<i>No results found.</i>");
+            0 == c.length && !b && a.push("<i>Rezultatų nerasta.</i>");
 
             1 < a.length && this.results.html(a.join(""));
         }
