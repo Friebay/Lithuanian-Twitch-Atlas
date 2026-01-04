@@ -5,7 +5,7 @@ from collections import defaultdict
 from itertools import combinations
 
 BASE_DIR = Path(__file__).resolve().parent.parent.parent
-SOURCE_FILE = BASE_DIR / "rustlog" / "message_structured_full.parquet"
+SOURCE_FILE = BASE_DIR / "rustlog" / "combined_dataset.parquet"
 OUTPUT_NODES_CSV = Path(__file__).resolve().parent / "nodes.csv"
 OUTPUT_EDGES_CSV = Path(__file__).resolve().parent / "edges.csv"
 
