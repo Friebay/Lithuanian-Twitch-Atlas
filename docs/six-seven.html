@@ -5,15 +5,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lietuvos „Twitch“ atlasas</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            min-height: 100vh;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
 </head>
 
 <body>
     <h1>„67“ populiarumas lietuviškose „Twitch“ bendruomenėse</h1>
     <p><a href="https://github.com/Friebay/Lithuanian-Twitch-Atlas">Friebay/Lithuanian-Twitch-Atlas</a></p>
-    <img src="images/message_counts_daily.png" alt="Stulpelinis grafikas „67“ žinučių">
-    <img src="images/message_counts_daily_stacked.png" alt="Italian Trulli">
-    <img src="images/table.png" alt="Italian Trulli">
+    <p>Pildoma, paskutinis atnaujinimas: 2026-01-05</p>
+    <figure class="research-figure">
+        <img src="images/message_counts_daily.png" alt="Stulpelinis grafikas „67“ žinučių">
+        <figcaption>1 pav. Stulpelinė diagrama „67“ žinučių</figcaption>
+    </figure>
+    <figure class="research-figure">
+        <img src="images/message_counts_daily_stacked.png" alt="Italian Trulli">
+        <figcaption>2 pav. Sudėtinė stulpelinė diagrama „67“ žinučių</figcaption>
+    </figure>
+    <figure class="research-figure">
+        <figcaption>1 lent. Dažniausi „67“ žinučių rašytojai skirtingose bendruomenėse</figcaption>
+        <img src="images/table.png" alt="Italian Trulli">
+    </figure>
     <script src="script.js"></script>
 </body>
 
